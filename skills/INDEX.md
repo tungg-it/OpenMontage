@@ -109,6 +109,9 @@ Key capability families to look for in the output:
 | â†³ LTX Prompting | `creative/prompting/ltx-prompting.md` | LTX-2 6-element structure, audio prompting | `ltx2` |
 | â†³ HunyuanVideo Prompting | `creative/prompting/hunyuan-prompting.md` | HunyuanVideo formula, I2V best practices | â€" |
 | Commercial Product Video | `creative/commercial-product-video.md` | Physical-product ads: SKU references, shot roles, generation controls, continuity, and final-cut fidelity | — |
+| Product Media Analysis | `creative/product-media-analysis.md` | Audit garment references and footage; decide which shots to keep, trim, reject, or create | `video-understand`, `ffmpeg` |
+| T-Shirt Ad Concept and Storyboard | `creative/tshirt-ad-storyboard.md` | Plan a 30-second TikTok Shop shirt ad with verified form, color, hook, shots, voice, and CTA | `remotion`, `hyperframes` |
+| TikTok Shop Ad Finishing | `creative/tiktok-shop-ad-finishing.md` | Local edit, verified VoiceStudio export, licensed music, captions, and 1080×1920 MP4 QA | `ffmpeg`, `remotion`, `hyperframes` |
 | Storytelling | `creative/storytelling.md` | Narrative structure, hooks, pacing, Mayer's principles | â€" |
 | Sound Design | `creative/sound-design.md` | Audio ducking, LUFS targets, SFX timing, AI TTS mixing | `elevenlabs` |
 | Typography | `creative/typography.md` | Font selection, text sizing, safe zones, caption styling | â€" |
